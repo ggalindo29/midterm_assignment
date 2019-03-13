@@ -1,1 +1,2 @@
-# midterm_assignment
+# Midterm Assignment
+## By: Genessis Galindo
